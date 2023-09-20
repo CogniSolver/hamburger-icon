@@ -18,6 +18,8 @@ Welcome to the "Hamburger Icon" project repository! 🚀 Discover the art of int
 
 🚀 **Interactive JavaScript:** The JavaScript code adds the interactive twist by toggling an "active" class on click, creating the animation effect.
 
+🚨 **Live Demo** [Hamburger Icon](https://cognisolver.github.io/hamburger-icon/)
+
 **Contributions and Learning:**
 
 🌟 Whether you're a beginner taking your first steps into web development or an experienced coder looking to add interactivity to your projects, this repository provides a valuable learning opportunity.
